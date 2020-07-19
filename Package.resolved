@@ -9,6 +9,15 @@
           "revision": "d6a3380bb939df0fddbaee1f7f32dc1b50d518c8",
           "version": "0.0.1"
         }
+      },
+      {
+        "package": "swift-url",
+        "repositoryURL": "https://github.com/karwa/swift-url.git",
+        "state": {
+          "branch": null,
+          "revision": "6f205959764aabf937f9442db202c5502ab804ae",
+          "version": "0.0.1"
+        }
       }
     ]
   },
